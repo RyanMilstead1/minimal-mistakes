@@ -1,0 +1,24 @@
+#family-photo {
+  display: inline-block;
+  width: 20%;
+  height: 20%;
+  border-radius: 5px;
+}
+
+.inline {
+  display: inline-block;
+  vertical-align: top;
+  padding-left: 10px;
+}
+
+.half {
+  width: 50%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
