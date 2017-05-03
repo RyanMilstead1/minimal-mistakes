@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "<img src='assets/images/logo.jpg' height='60px' width='60px'> Ryan_Milstead"
+title                    : "Ryan_Milstead"
 title_separator          : "-"
 name                     : "Ryan Milstead"
 description              : "ex nihilo nihil fit"
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "ryan.milstead.7"
   foursquare       :
   github           : "RyanMilstead1"
   google_plus      :
@@ -97,14 +97,14 @@ author:
   linkedin         : "ryanmilstead"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : "6731433/ryan-milstead"
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "ryanmilstead"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/user/viperguy4123"
 
 
 # Reading Files
@@ -176,6 +176,11 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
 
 # Plugins
 gems:
@@ -248,6 +253,13 @@ defaults:
   - scope:
       path: ""
       type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
     values:
       layout: single
       author_profile: true
