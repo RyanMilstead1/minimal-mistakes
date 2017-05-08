@@ -3,7 +3,7 @@
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <a class="site-title" href="{{ '/' | absolute_url }}">
-          <img src="assets/images/logo.jpg" height="60px" width="60px">
+          <img src={{ "assets/images/logo.jpg" | relative_url }} height="60px" width="60px">
           {{ site.title }}
         </a>
         <ul class="visible-links">

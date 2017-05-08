@@ -1,7 +1,6 @@
 #family-photo {
-  display: inline-block;
-  width: 20%;
-  height: 20%;
+  width: 30%;
+  height: 30%;
   border-radius: 5px;
 }
 
@@ -9,6 +8,11 @@
   display: inline-block;
   vertical-align: top;
   padding-left: 10px;
+}
+
+.half {
+  width: 50%;
+  display: inline-block;
 }
 
 .left {
