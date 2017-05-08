@@ -2,7 +2,7 @@
 layout: single
 title: UPMC Angular 2 Rewrite
 thumbnail-path: "assets/images/upmc-angular-2.png"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: UPMC is re-writing their consumer portal utilizing the Angular 2 framework.
 order: 1
 
 ---

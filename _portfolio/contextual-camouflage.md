@@ -3,7 +3,7 @@ layout: single
 title: Contextual Camouflage
 thumbnail-path: "assets/images/contextual-camouflage.png"
 permalink: "portfolio/contextual-camouflage.html"
-short-description: BlocFlix is a Netflix replica for finding the best movies and watching them online.
+short-description: Contextual Camouflage aims to transform research into a living narrative using a web based application, GIS technology, and user input to paint a picture of the prevalence of mental disorders in the community.
 order: 2
 
 ---
