@@ -2,8 +2,7 @@
 layout: single
 title: Sortbox
 thumbnail-path: "assets/images/sortbox.png"
-short-description: Sortbox is a web-based applicant review and organization system enabling small businesses to promote, collect and screen
-    applications.
+short-description: Sortbox is a web-based applicant review and organization system enabling small businesses to promote, collect and screen applications.
 order: 4
 
 ---
@@ -11,26 +10,14 @@ order: 4
 {:.center}
 ![]({{ site.baseurl }}/portfolio/assets/images/sortbox.png)
 
-## Explanation
+## Overview
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+Sortbox is a web-based applicant review and organization system enabling small businesses to promote, collect and screen applications. SortBox gives you a simple, easy to use platform to help you look great to prospective hires, easily collect all their data and quickly organize them. With SortBox, hiring from Craigslist truly becomes efficient and effective. Easy to use, easy to update, no coding required, with all your job applicant data safely stored in the cloud, so you keep track of all the great talent for the future. With SortBox you build your own reservoir of talent.
 
-## Problem
+## Technologies
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+This application is built entirely on Ruby on Rails and utilizes Stripe for credit card payments and subscriptions. It also utilizes bootstrap for design, devise for authentication, and omniauth for social media login integration.
 
-## Solution
+## My Contributions
 
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-## Results
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-> Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
-
-## Conclusion
-
-Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
+I work mainly on the frontend of this project, helping the team to implement new design features and fix any existing bugs in the application. I also worked on the Stripe integration on this project. 
