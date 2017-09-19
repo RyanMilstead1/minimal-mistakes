@@ -3,7 +3,7 @@ layout: single
 title: Sortbox
 thumbnail-path: "assets/images/sortbox.png"
 short-description: Sortbox is a web-based applicant review and organization system enabling small businesses to promote, collect and screen applications.
-order: 4
+order: 5
 
 ---
 
@@ -20,4 +20,4 @@ This application is built entirely on Ruby on Rails and utilizes Stripe for cred
 
 ## My Contributions
 
-I work mainly on the frontend of this project, helping the team to implement new design features and fix any existing bugs in the application. I also worked on the Stripe integration on this project. 
+I work mainly on the frontend of this project, helping the team to implement new design features and fix any existing bugs in the application. I also worked on the Stripe integration on this project.
