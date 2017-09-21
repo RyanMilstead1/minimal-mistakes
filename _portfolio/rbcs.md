@@ -1,7 +1,7 @@
 ---
 layout: single
 title: RBCS
-thumbnail-path: "assets/images/rbcs.png"
+thumbnail-path: "assets/images/rbcs.jpg"
 short-description: Red Book Credit Services provides access to a comprehensive, continually updated database of the Fresh Produce Industry that helps users monitor companies business habits and helps them make connections to those companies.
 order: 6
 

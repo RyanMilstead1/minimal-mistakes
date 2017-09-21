@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Contextual Camouflage
-thumbnail-path: "assets/images/contextual-camouflage.png"
+thumbnail-path: "assets/images/contextual-camouflage.jpg"
 permalink: "portfolio/contextual-camouflage.html"
 short-description: Contextual Camouflage aims to transform research into a living narrative using a web based application, GIS technology, and user input to paint a picture of the prevalence of mental disorders in the community.
 order: 3

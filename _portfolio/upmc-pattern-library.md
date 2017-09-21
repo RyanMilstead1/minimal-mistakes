@@ -1,8 +1,8 @@
 ---
 layout: single
 title: UPMC Pattern Library
-thumbnail-path: "assets/images/upmc-pattern-library.png"
-short-description: The MyHealth Online Pattern Library serves as a platform for designers, developers and business owners to collaborate on new elements that will be used in the MyHealth Online application. 
+thumbnail-path: "assets/images/upmc-pattern-library.jpg"
+short-description: The MyHealth Online Pattern Library serves as a platform for designers, developers and business owners to collaborate on new elements that will be used in the MyHealth Online application.
 order: 2
 
 ---
