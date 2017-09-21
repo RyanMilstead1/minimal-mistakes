@@ -14,7 +14,13 @@
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}">
+{% capture inline-styles %}
+  {% include main.scss %}
+{% endcapture %}
+
+<style type="text/css">
+  {{ inline-styles | scssify }}
+</style>
 
 <!--[if lte IE 9]>
   <style>
