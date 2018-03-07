@@ -1,0 +1,18 @@
+---
+layout: single
+title: Pairing is Caring
+---
+
+I had never really heard of or researched pair programming until I started DBC. Whenever I imagined computer programmers in my head, I thought of singular cluttered desks with red-bulls and snacks scattered around with some red-eyed, tired looking person hacking away at a keyboard all by themselves. But my time in DBC has already shown me that it is absolutely nothing like that at all. It is really about the warm, helpful community that builds off of one another to make themselves and their code better.
+
+![](https://media.giphy.com/media/tnivTK2URZm7e/giphy.gif)
+
+Pairing over the course of phase 0 has slowly become one of the things that I really enjoy about DBC. At first, I was hesitant because I, like most people, tend to think sometimes that I work better alone. Also being social is not always my strong suit so trying to do something new in coding that I am insecure about made me worried that pairing would be awkward. And the first pairing session was a little awkward at first but it quickly became about the code and our exchange of information so it became much more relaxed and it has only been easier with each pairing session.
+
+My favorite parts of pairing sessions are when we run into a particularly difficult problem that we get stuck on for a while. Then whenever we have that Eureka moment in which everything becomes clear and our code finally works, nothing else could be better. But this situation is double sided because it can also create some of the moments that I hate about pair programming and programming in general. That is when I run into a problem and keep pushing ahead trying to find a solution but it just won't happen. I do get frustrated having to step away or take a break but I have also learned it is in those breaks where I usually find the solution.
+
+The feedback portion of DBC is also something that took me a little while to warm up to but now that we have been in phase 0 for a few weeks, I can really see the importance of it. At first it was a little tedious to try to come up with something to say about each of my paring sessions, challenges, blog posts, etc, but now I look forward to the chance to be able to help someone improve their code, help them in some way, or just start a conversation about something I find interesting. And the feedback has been an important part of that.
+
+Most of the feedback that I have received has been pretty positive but there have been a few that have pointed out my flaws in my sessions. Now initially I admit that I get defensive and think about ways to explain why I did what I did. At this point, though I know that is not important. This person is just trying to help make me better so I take their comments and think of how I can improve on that in the future. And giving criticism is something that I struggle with in writing feedback as well. Naturally, I am a pretty nice person and when I go to criticize someone, I feel that I'm being mean or negative in some way so my instinct is to avoid that. But I have gotten better at realizing that this isn't negative in any way as long as I write it in the proper way. It's only an opportunity to help someone improve and that is the best thing about feedback. No matter if it is good or bad, as long as it isn't mean, all feedback does is help you. And I can absolutely see why it is one of the building blocks of the DBC experience.
+
+Overall, after I got past the small difficulties that I had with pairing and feedback, I have really grown to appreciate them and their place in the DBC culture. And I look forward to improving my skilling in both of these realms to be a better programmer in the future.

@@ -22,7 +22,7 @@ header:
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
 
     <section class="page__content work" itemprop="text">
-      {% assign projects = (site.portfolio | sort: 'order') %}
+      {% assign projects = site.portfolio | sort: 'order' %}
       {% for project in projects %}
       <div class="project">
         <div class="project-thumb">

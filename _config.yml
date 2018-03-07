@@ -195,6 +195,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  posts:
+    output: true
+    permalink: /posts/:path/
 
 # Plugins (previously gems:)
 plugins:
@@ -260,7 +263,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: false
       share: true
       related: true
   # _pages
