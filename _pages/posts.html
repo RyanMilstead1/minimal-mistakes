@@ -3,6 +3,9 @@ layout: archive
 permalink: /posts/
 title: "Posts"
 author_profile: true
+header_title: Posts
+header:
+  overlay_image: "assets/images/posts.jpg"
 ---
 
 {% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'"  %}
