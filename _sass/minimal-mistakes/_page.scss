@@ -17,6 +17,7 @@
 
   @include breakpoint($x-large) {
     max-width: $x-large;
+    padding-right: $right-sidebar-width;
   }
 }
 
