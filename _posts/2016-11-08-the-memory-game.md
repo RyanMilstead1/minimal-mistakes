@@ -18,4 +18,4 @@ RAM is normally divided into two different sections, physical memory and virtual
 
 Well that was a brief and somewhat rudimentary look into computer memory that I RAMed into your brain but hopefully I helped make things a little more clear and the next time you think about computer memory, it will be a little easier to **remember** (Get it....)
 
-![get-it.gif](http://img.gawkerassets.com/img/18o7jblq3ztd1gif/original.gif)
+![get-it.gif](https://img.gawkerassets.com/img/18o7jblq3ztd1gif/original.gif)
