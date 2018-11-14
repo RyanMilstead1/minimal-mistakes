@@ -6,3 +6,11 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+@import "home";
+@import "portfolio";
+@import "about";
+@import "posts";
+
+.error-page {
+  margin-top: 15px;
+}

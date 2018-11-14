@@ -10,16 +10,15 @@
   padding-left: 10px;
 }
 
-.half {
-  width: 50%;
-  display: inline-block;
+.row {
+  display: flex;
 }
 
-.left {
-  float: left;
+.column {
+  flex: 50%;
 }
 
-.right {
-  float: right;
-  padding-left: 20%;
+ul.column {
+  text-align: center;
+  list-style-type: none;
 }
