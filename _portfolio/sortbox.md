@@ -3,7 +3,7 @@ layout: single
 title: Sortbox
 thumbnail-path: "assets/images/sortbox.jpg"
 short-description: Sortbox is a web-based applicant review and organization system enabling small businesses to promote, collect and screen applications.
-order: 5
+order: 6
 
 ---
 

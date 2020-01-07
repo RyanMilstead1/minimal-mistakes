@@ -3,7 +3,7 @@ layout: single
 title: UPMC Consumer Portal
 thumbnail-path: "assets/images/upmc-consumer-portal.jpg"
 short-description: UPMC MyHealth OnLine member website is where you can access all personalized information, materials, and resources you need for your UPMC member health plan.
-order: 1
+order: 2
 
 ---
 

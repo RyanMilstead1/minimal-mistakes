@@ -3,7 +3,7 @@ layout: single
 title: Seventeen Days
 thumbnail-path: "assets/images/seventeen-days.jpg"
 short-description: Seventeen Days Interactive is a theory-based interactive film created by Carnegie Mellon University designed to educate young women about contraception and sexually transmitted infections (STIs).
-order: 4
+order: 5
 
 ---
 
